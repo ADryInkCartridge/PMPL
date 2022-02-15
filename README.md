@@ -8,6 +8,7 @@
 7. Run ``php artisan migrate``
 8. Run ``php artisan db:seed``
 9. Run ``php artisan serve``
+10. Use username:admin and password:admin on ``http://127.0.0.1:8000/login``
 
 
 
